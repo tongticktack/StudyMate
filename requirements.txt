@@ -1,0 +1,7 @@
+# requirements.txt
+openai
+langchain
+faiss-cpu
+streamlit
+pydantic
+tqdm
